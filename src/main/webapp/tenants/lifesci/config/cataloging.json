@@ -9,6 +9,7 @@
                         "components": {
                             "berkeleyMapperIntegrator": {
                                 "type": "cspace.berkeleyMapperIntegration",
+                                "tenantId": "2",
                                 "createOnEvent": "ready"
                             }
                         },
